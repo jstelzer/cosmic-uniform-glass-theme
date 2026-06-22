@@ -223,7 +223,7 @@
         red: 0.0,
         green: 0.0,
         blue: 0.0,
-        alpha: 0.4,
+        alpha: 0.7,
     )),
     primary_container_bg: Some((
         red: 0.0,
